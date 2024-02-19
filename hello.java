@@ -5,7 +5,6 @@ class hello
 	{
 		System.out.println("this is my 1st project");
 		System.out.println("adding new line");
-		System.out.println("added again new line");
-		
+		System.out.println("checking the jenkins")	
 	}
 }
